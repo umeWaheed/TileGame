@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/TileGame/src/controller/startController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/TileGame/src/model/TileGame.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/TileGame/src/view/BoardView.fxml</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/TileGame/src/model/gameState.xml</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/TileGame/src/controller/xmlReader.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/TileGame/src/view/OptionView.fxml</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/TileGame/src/model/Group.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/TileGame/src/controller/OptionViewController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/TileGame/src/model/Tile.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/TileGame/src/controller/BoardViewController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/TileGame/src/view/StartMenu.fxml</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/TileGame/src/model/Board.java</file>
+        </group>
+    </open-files>
+</project-private>
